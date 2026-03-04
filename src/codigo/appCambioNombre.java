@@ -1,6 +1,6 @@
 package codigo;
 
-public class app {
+public class appCambioNombre {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
